@@ -45,7 +45,16 @@ Check out my production-grade test automation architecture:
 
 ---
 
+### ⚡ Engineering Principles & Quality Pillars
+- **Zero Flakiness Tolerance:** Dynamic conditions & auto-waiting over arbitrary hardcoded sleeps.
+- **Shift-Left Architecture:** Virtualized contract validation (WireMock/Zod) before costly UI suites.
+- **Distributed CI Velocity:** Matrix sharding, caching, and artifact aggregation in modern pipelines.
+- **Enterprise Standards:** Clean architecture, strongly typed TypeScript, and W3C Actions compliance.
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelCarvalho07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelCarvalho07&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelCarvalho07&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=RaphaelCarvalho07&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
+
