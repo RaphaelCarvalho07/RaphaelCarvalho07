@@ -54,7 +54,5 @@ Check out my production-grade test automation architecture:
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelCarvalho07&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/><br/>
   <img src="https://komarev.com/ghpvc/?username=RaphaelCarvalho07&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
-
